@@ -2,7 +2,7 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
-from streamlit-audiorecorder import st_audiorec
+from st_audiorec import st_audiorec
 
 # Load the pre-trained model
 imported = tf.saved_model.load("saved")
