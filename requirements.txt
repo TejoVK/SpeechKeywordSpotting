@@ -1,0 +1,5 @@
+streamlit
+tensorflow
+numpy
+matplotlib
+st_audiorec
