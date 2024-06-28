@@ -5,7 +5,7 @@ This repository contains a Streamlit application for keyword spotting using deep
 
 - **Audio Input Options**: Users can either upload a `.wav` audio file or record their voice directly within the app.
 - **Prediction Visualization**: The app displays the predicted keyword probabilities, the audio waveform, and the spectrogram of the audio signal.
-- **Pre-trained Model**: Uses a pre-trained TensorFlow model to recognize keywords including "down," "go," "left," "no," "right," "stop," "up," and "yes."
+- **Model**: Uses a TensorFlow model that we trained to recognize keywords including "down," "go," "left," "no," "right," "stop," "up," and "yes."
 
 ## Installation
 
