@@ -1,7 +1,6 @@
 # Keyword Spotting Using Deep Learning
 
-This repository contains a Streamlit application for keyword spotting using deep learning. The application recognizes specific keywords from audio inputs, utilizing a pre-trained TensorFlow model to make predictions from recorded or uploaded audio files.
-
+This repository contains a Streamlit application for keyword spotting using deep learning. The application recognizes specific keywords from audio inputs, utilizing a pre-trained model that we trained using TensorFlow to make predictions from recorded or uploaded audio files.
 ## Features
 
 - **Audio Input Options**: Users can either upload a `.wav` audio file or record their voice directly within the app.
@@ -23,19 +22,13 @@ This repository contains a Streamlit application for keyword spotting using deep
     pip install -r requirements.txt
     ```
 
-3. **Install `st_audiorec` directly from the GitHub repository:**
-
-    ```bash
-    pip install git+https://github.com/stefanrmmr/streamlit_audio_recorder.git
-    ```
-
-4. **Run the Streamlit application:**
+3. **Run the Streamlit application:**
 
     ```bash
     streamlit run app.py
     ```
 
-5. Open your web browser and go to `http://localhost:8501`.
+4. Open your web browser and go to `http://localhost:8501`.
 
 ## Usage
 
