@@ -2,7 +2,7 @@
 
 This repository contains a Streamlit application for keyword spotting using deep learning. The application recognizes specific keywords from audio inputs, utilizing a pre-trained model that we trained using TensorFlow to make predictions from recorded or uploaded audio files.
 
-You can use this model through this streamlit app here: `https://speechkeywordspotting-lxtnkkvezjmbhsxunkk72a.streamlit.app/` or can run it locally following the steps given below.
+You can use this model through this streamlit app [here](https://speechkeywordspotting-lxtnkkvezjmbhsxunkk72a.streamlit.app/) or can run it locally following the steps given below.
 
 ## Features
 
